@@ -1,1 +1,1 @@
-Shell HTML / CSS website for an example business. I used it to learn more about the languages.
+Shell HTML / CSS website for a local business. I used it to learn more about the languages and conventions.
